@@ -1,2 +1,2 @@
 *.db
-!doc/*.db
+!doc/b.db
